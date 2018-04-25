@@ -4,7 +4,11 @@ node_js:
 sudo: required
 script:
   - ./exclude.sh
+<<<<<<< HEAD
   
 
+=======
+ 
+>>>>>>> f0a95997c2cd872b750f4df1c26fae71668652cb
 addons:
   chrome: stable
